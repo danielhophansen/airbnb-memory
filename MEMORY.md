@@ -81,7 +81,7 @@ PriceLabs-kalenderen og listing_prices API viser priser uten LOS-justering.
 **Bookede perioder juni:**
 - Jun 1: Booket
 - Jun 2–3: Booket
-- Jun 4–6: Kavir Bheeroo (London, 5 voksne + 2 barn). Totalpris: 15.900 kr, utbetaling: 12.819 kr. Kode: HMYY4D8H3Q
+- Jun 4–6: Booket (5 voksne + 2 barn). Totalpris: 15.900 kr, utbetaling: 12.819 kr.
 - Jun 12–15: Booket
 
 **Åpne netter:** Jun 7–11 (5 netter) + Jun 16–30 (15 netter) = 20 totalt
