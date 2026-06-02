@@ -4,6 +4,15 @@
 
 ---
 
+## Overvåkning
+
+- **Cloud-rutine:** trig_01HZd6uqXvdhNuMWKNpBw1kK — kjører daglig kl. 09:07 (Europa/Oslo), sender belegg + triggere til Telegram
+- **GitHub-repo:** https://github.com/danielhophansen/airbnb-memory (PUBLIC) — brukes av cloud-rutinen for å lese MEMORY.md
+- **Auto-push hook:** aktiv i `.claude/settings.json` — kopierer og pusher MEMORY.md til GitHub automatisk hver gang Claude Code redigerer filen
+- **pricelabs-monitor.py:** lokal script for ad-hoc prissjekk mot PriceLabs API + neighborhood data
+
+---
+
 ## Eiendom
 
 - **Adresse:** Trondheimsveien 163, Oslo (Sagene/Torshov-området, annonsert som Grünerløkka)
